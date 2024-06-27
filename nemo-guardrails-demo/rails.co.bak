@@ -1,0 +1,15 @@
+define user express greeting
+  "Hello"
+  "Hi"
+  "Wassup?"
+
+define bot express greeting
+  "Ahoy, matey!"
+
+define bot ask how are you
+  "How be ye farin'?"
+
+define flow greeting
+  user express greeting
+  bot express greeting
+  bot ask how are you
