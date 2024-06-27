@@ -1,4 +1,4 @@
-# AI Engineer NZ meetup
-(AI Engineer NZ meetup - join)[https://lu.ma/aiengineer]
+# AI Engineer NZ meetup Code Repository
+[AI Engineer NZ meetup](https://lu.ma/aiengineer)
 
-This code repository contains public examples discussed or demo'ed during the meetup. 
+This code repository contains public examples discussed or demo'ed during meetups. 
