@@ -10,6 +10,7 @@ Proposed topics: guardrails, fine tuning (2x), how to prepare data for fine tuni
 ## Code from talks
 
 This code repository contains public examples discussed or demo'ed during meetups. 
+
 *27/06/2024* Wellington - [LLMs and Guardrails](https://github.com/Flyttness/aiengineernz/tree/main/nemo-guardrails-demo)
 
 
