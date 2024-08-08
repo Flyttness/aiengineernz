@@ -14,7 +14,7 @@ This code repository contains public examples discussed or demo'ed during meetup
 |------|----------|-----------|
 |07/07/2024|Wellington|Fine Tuning LLMs & More https://lu.ma/7m6fg4qy|
 |27/06/2024|Wellington|LLMs and Guardrails https://github.com/Flyttness/aiengineernz/tree/main/nemo-guardrails-demo|
-|24/05/2024|Wellington|Secure & Private GenAI in Production|https://events.humanitix.com/secure-and-private-ai-assistants|
+|24/05/2024|Wellington|Secure & Private GenAI in Production https://events.humanitix.com/secure-and-private-ai-assistants|
 --------------
 
 
