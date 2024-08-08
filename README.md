@@ -10,11 +10,11 @@ Proposed topics: guardrails, fine tuning (2x), how to prepare data for fine tuni
 ## Previous events & code
 
 This code repository contains public examples discussed or demo'ed during meetups. 
-| Date | Location | Event Resources | 
+| Date | Presenters | Event Resources | 
 |------|----------|-----------|
-|07/07/2024|Wellington|Fine Tuning LLMs & More|
-|27/06/2024|Wellington|LLMs and Guardrails https://github.com/Flyttness/aiengineernz/tree/main/nemo-guardrails-demo|
-|24/05/2024|Wellington|Secure & Private GenAI in Production|
+|07/07/2024|Chris Bare, Kyle Davies, Dan O'Brien |Fine Tuning LLMs & More|
+|27/06/2024|Lingxian Kong|LLMs and Guardrails https://github.com/Flyttness/aiengineernz/tree/main/nemo-guardrails-demo|
+|24/05/2024|Dan O'Brien, Wessel De Meyer, Seb Krueger|Secure & Private GenAI in Production|
 --------------
 
 
