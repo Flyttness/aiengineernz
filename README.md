@@ -7,7 +7,7 @@ Join here: [AI Engineer NZ Meetup](https://lu.ma/aiengineer)
 
 Proposed topics: guardrails, fine tuning (2x), how to prepare data for fine tuning, CPUs and CUDA programming, multimodal (vision for Health), prompt engineering, code generation, Langchain, changing, RAG in general, China LLM development, productionized use cases in NZ of RAG.
 
-## Code from talks
+## Previous events & code
 
 This code repository contains public examples discussed or demo'ed during meetups. 
 
@@ -15,8 +15,10 @@ This code repository contains public examples discussed or demo'ed during meetup
 27/06/2024 Wellington - [LLMs and Guardrails](https://github.com/Flyttness/aiengineernz/tree/main/nemo-guardrails-demo)
 24/05/2024 Wellington - [Secure & Private GenAI in Production](https://events.humanitix.com/secure-and-private-ai-assistants)
 
-`
+```
 test
 1
+```
+
 
 
