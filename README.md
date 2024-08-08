@@ -12,9 +12,9 @@ Proposed topics: guardrails, fine tuning (2x), how to prepare data for fine tuni
 This code repository contains public examples discussed or demo'ed during meetups. 
 | Date | Presenters | Event Resources | 
 |------|----------|-----------|
-|07/07/2024|Chris Bare, Kyle Davies, Dan O'Brien |Fine Tuning LLMs & More|
-|27/06/2024|Lingxian Kong|LLMs and Guardrails https://github.com/Flyttness/aiengineernz/tree/main/nemo-guardrails-demo|
-|24/05/2024|Dan O'Brien, Wessel De Meyer, Seb Krueger|Secure & Private GenAI in Production|
+|07/07/2024|Chris Bare, Kyle Davies, Dan O'Brien |Semantic Kernel for .NET Developers, Synthetic Radiology Reports, Fine Tuning LLMs|
+|27/06/2024|Lingxian Kong|LLMs and Guardrails, NVIDIA NeMo, https://github.com/Flyttness/aiengineernz/tree/main/nemo-guardrails-demo|
+|24/05/2024|Dan O'Brien, Wessel De Meyer, Seb Krueger|Secure & Private GenAI in Production, Snowflake RAG|
 --------------
 
 
